@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\VICTUS\\Desktop\\TheEndC#\\exams\\SystemManagementMovie\\wwwroot\\default.png",
+      "PackagePath": "staticwebassets\\default.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SystemManagementMovie.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SystemManagementMovie.props",
+      "PackagePath": "build\\SystemManagementMovie.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SystemManagementMovie.props",
+      "PackagePath": "buildMultiTargeting\\SystemManagementMovie.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SystemManagementMovie.props",
+      "PackagePath": "buildTransitive\\SystemManagementMovie.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

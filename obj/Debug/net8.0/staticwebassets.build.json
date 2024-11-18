@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "tnkm6SZVJCZXvfCrioO3bbcbTiJxRQQDVzfOu03Z29Q=",
+  "Source": "SystemManagementMovie",
+  "BasePath": "_content/SystemManagementMovie",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SystemManagementMovie\\wwwroot",
+      "Source": "SystemManagementMovie",
+      "ContentRoot": "C:\\Users\\VICTUS\\Desktop\\TheEndC#\\exams\\SystemManagementMovie\\wwwroot\\",
+      "BasePath": "_content/SystemManagementMovie",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\VICTUS\\Desktop\\TheEndC#\\exams\\SystemManagementMovie\\wwwroot\\default.png",
+      "SourceId": "SystemManagementMovie",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\VICTUS\\Desktop\\TheEndC#\\exams\\SystemManagementMovie\\wwwroot\\",
+      "BasePath": "_content/SystemManagementMovie",
+      "RelativePath": "default.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.png"
+    }
+  ]
+}
